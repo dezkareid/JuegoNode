@@ -1,0 +1,18 @@
+{
+  "name": "BatallaEscolar",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "0.28.2",
+    "consolidate": "0.8.0",
+    "socket.io": "0.9.13",
+    "swig": "0.13.5"
+  },
+  "subdomain": "dezkareid-BatallaEscolar",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
